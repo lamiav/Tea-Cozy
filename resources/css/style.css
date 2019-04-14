@@ -119,10 +119,16 @@ figcaption h4 {
   display: flex;
   justify-content: center;
   flex-direction: column;
-
 }
-
 
 #locations h2 {
   margin: 0px 0px 15px 0px;
+}
+
+.contact {
+  height: 200px;
+}
+
+.contact h2 {
+  margin-top: 15px;
 }
