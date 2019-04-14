@@ -132,3 +132,11 @@ figcaption h4 {
 .contact h2 {
   margin-top: 15px;
 }
+
+footer {
+  position: relative;
+  z-index: 1;
+  top: 69px;
+  text-align: left;
+  padding-left: 20px;
+}
